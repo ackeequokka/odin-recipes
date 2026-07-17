@@ -1,14 +1,8 @@
 # odin-recipes
 
-Project goal - create a recipe website using HTML only
+Project goal - create a recipes website using HTML only
 
-Structure:
 
-Homepage:
-    =>
-    Recipes pages
-
-Credits:
 Recipes:
 - Lasagna:
     https://www.allrecipes.com/recipe/12011/easy-lasagna-ii/
