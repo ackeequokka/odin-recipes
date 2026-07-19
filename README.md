@@ -16,8 +16,11 @@ Recipes:
     <br>
     Author: Sarah
 <p>
+
 Images:
-- Lasagna: Christopher Testani for The New York Times.<br>Food Stylist: Simon Andrews
-- Potato Salad: www.doctissimo.co.uk<br> Editorial Team
+- Lasagna: Christopher Testani for The New York Times.
+  <br>Food Stylist: Simon Andrews
+- Potato Salad: www.doctissimo.co.uk
+  <br> Editorial Team
 - Strawberry Smoothie: www.pexels.com/pt-br/foto/batido-de-morango-3625372/
-<br>Author: Sebastian Coman Photography 
+  <br>Author: Sebastian Coman Photography 
