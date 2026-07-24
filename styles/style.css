@@ -90,3 +90,8 @@ a:hover.index-nav {
 .header-index {
   margin-bottom: 40px;
 }
+
+.recipe-page-whole {
+  margin: 40px 80px;
+  padding: 0px;
+}
